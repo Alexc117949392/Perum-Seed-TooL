@@ -78,11 +78,7 @@ Visit "http://localhost:5000" to access the Dockerized Express app.
 
 ## Docker Cheat Sheet
 
-For quick reference and insights into essential commands and best practices, download the [Docker Cheat Sheet](link-to-cheat-sheet).
-
-## Contributing
-
-Contributions are welcome! Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
+For quick reference and insights into essential commands and best practices, download the [Docker Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf).
 
 ## License
 
