@@ -7,14 +7,13 @@ In the fast-paced world of software development, the **Project Title** leverages
 
 ## Table of Contents
 
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Dockerizing a Node.js App](#dockerizing-a-nodejs-app)
-  - [Accessing the Dockerized App](#accessing-the-dockerized-app)
-- [Docker Cheat Sheet](#docker-cheat-sheet)
-- [Contributing](#contributing)
+- [Getting Started]
+  - [Prerequisites]
+  - [Installation]
+- [Usage]
+  - [Dockerizing a Node.js App]
+  - [Accessing the Dockerized App]
+- [Docker Cheat Sheet]
 - [License](#license)
 
 ## Getting Started
