@@ -1,5 +1,6 @@
 
 # Docker Basics
+[![Thumbnail.png](https://i.postimg.cc/Gpb6kyww/Thumbnail.png)](https://postimg.cc/v4SPyDZ3)
 
 ## Overview
 
